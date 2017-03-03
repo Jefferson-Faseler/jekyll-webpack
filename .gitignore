@@ -4,3 +4,6 @@ _site
 public
 node_modules
 src/assets/javascripts/bundle.js
+src/assets/production/stylesheets/main.min.css
+src/assets/development/stylesheets/main.css
+src/assets/development/stylesheets/main.css.map
