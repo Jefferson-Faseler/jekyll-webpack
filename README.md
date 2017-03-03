@@ -38,7 +38,7 @@ To have grunt watch your files without constantly reloading your server use `gru
 
 To add images, place them into `assets/development/images` and run `grunt` or `grunt resize` to place them into `assets/production/images`.
 
-To add stylesheets place them into `assets/development/stylesheets/components` as `.scss`.
+To add stylesheets place them into `assets/development/stylesheets/components` as a `.scss` file (ex: `_post.scss`).
 (Changes made in any `.css` file will not reflect and these files should be ignored) Then add them to the import tree in `main.scss` and run `grunt`.
 
 Always reference production versions for stylesheets or images.
